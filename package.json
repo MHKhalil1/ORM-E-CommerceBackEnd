@@ -1,0 +1,26 @@
+{
+  "name": "orm-e-commercebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHKhalil1/ORM-E-CommerceBackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHKhalil1/ORM-E-CommerceBackEnd/issues"
+  },
+  "homepage": "https://github.com/MHKhalil1/ORM-E-CommerceBackEnd#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.5"
+  }
+}
